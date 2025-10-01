@@ -51,11 +51,10 @@
 
 ## 💡 Mais Sobre Mim
 
-- 🔭 Atualmente trabalhando em **[Seu Projeto Principal Atual]**.
-- 🌱 Aprendendo ativamente sobre **[Nova Tecnologia ou Conceito]**.
-- 💬 Pergunte-me sobre **[Sua Área de Expertise]** ou **[Outro Assunto Relevante]**.
-- 📫 Como entrar em contato: **[Seu Email]** ou **Mensagem no LinkedIn**.
-- ⚡ Fato divertido: **[Conte Algo Interessante e Rápido Sobre Você]**.
+- 🌱 Sou profissional de Tecnologia da Informação com mais de 15 anos de experiência em suporte, coordenação de equipes e projetos de TI. Ao longo da minha trajetória, desenvolvi forte interesse e especialização em Análise de Dados, Business Intelligence e Desenvolvimento de Sistemas, áreas em que estou direcionando minha carreira. 
+- 💬 Possuo graduação em Análise e Desenvolvimento de Sistemas, pós-graduação em Análise de Dados e MBA em Business Intelligence. Tenho experiência prática na gestão e armazenamento de dados corporativos, criação de bases automatizadas, desenvolvimento de dashboards e relatórios estratégicos em ferramentas de BI, além de atuação em desenvolvimento de scripts, automação de processos e integração de sistemas internos.
+- ⚡ Minhas principais competências incluem SQL, Python, Power BI, ETL, lógica de programação e análise de negócios, aplicadas em projetos de melhoria de processos, integração de dados e suporte à tomada de decisão. Já implementei soluções que reduziram esforços manuais, aumentaram a eficiência de relatórios e aprimoraram a visualização de informações para diretoria e clientes.
+- 🔭 Busco oportunidades para atuar como Analista de Dados ou Desenvolvedor de Sistemas/BI, aplicando minha experiência técnica e de liderança para transformar dados em informações valiosas e criar soluções tecnológicas eficazes que apoiem a estratégia de negócios.
 
 <br>
 <img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&color=green" alt="Contador de Visualizações" />

@@ -35,17 +35,17 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+      <img src="https://github-readme-stats.vercel.app/api?username=RobsonFernandesdeMacedo&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=dark" alt="Top Linguagens" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonFernandesdeMacedo&layout=compact&theme=dark" alt="Top Linguagens" />
     </td>
   </tr>
 </table>
 
 ### 🔥 Minha Sequência de Contribuições (Streak)
 
-<img src="http://github-readme-streak-stats.herokuapp.com?user=SEU_USERNAME&theme=dark&date_format=j%20M%5B%20Y%5D" alt="Estatísticas de Sequência" />
+<img src="http://github-readme-streak-stats.herokuapp.com?user=RobsonFernandesdeMacedo&theme=dark&date_format=j%20M%5B%20Y%5D" alt="Estatísticas de Sequência" />
 
 ---
 
@@ -57,7 +57,7 @@
 - 🔭 Busco oportunidades para atuar como Analista de Dados ou Desenvolvedor de Sistemas/BI, aplicando minha experiência técnica e de liderança para transformar dados em informações valiosas e criar soluções tecnológicas eficazes que apoiem a estratégia de negócios.
 
 <br>
-<img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&color=green" alt="Contador de Visualizações" />
+<img src="https://komarev.com/ghpvc/?username=RobsonFernandesdeMacedo&color=green" alt="Contador de Visualizações" />
 <br>
 
 </div>
